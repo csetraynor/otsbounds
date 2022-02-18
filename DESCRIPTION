@@ -1,12 +1,15 @@
 Package: otsbounds
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Title: Computes the Optimal Treatment Selection Bounds.
+Version: 1.0.0
+Author: Carlos S Traynor [aut, cre]
+Maintainer: Carlos S Traynor <c.traynor@warwick.ac.uk>
+Description: Computes the Optimal Treatment Selection Bounds.
+License: GPL (>= 2)
 Encoding: UTF-8
+Depends: R (>= 3.5)
 LazyData: true
+VignetteBuilder: knitr
+URL: https://github.com/csetraynor/otsbounds
+BugReports: https://github.com/csetraynor/otsbounds/issues
 RoxygenNote: 6.1.0
