@@ -1,6 +1,6 @@
 Package: otsbounds
 Type: Package
-Title: Computes the Optimal Treatment Selection Bounds.
+Title: Computes the Optimal Treatment Selection Bounds
 Version: 1.0.0
 Author: Carlos S Traynor [aut, cre]
 Maintainer: Carlos S Traynor <c.traynor@warwick.ac.uk>
